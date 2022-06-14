@@ -71,6 +71,7 @@
 | prolog |  |  |  | `swipl` |
 | protobuf | ✓ |  | ✓ |  |
 | python | ✓ | ✓ | ✓ | `pylsp` |
+| qml | ✓ |  |  |  |
 | r | ✓ |  |  | `R` |
 | racket |  |  |  | `racket` |
 | regex | ✓ |  |  |  |
